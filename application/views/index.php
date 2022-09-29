@@ -1,5 +1,5 @@
 <div class="page-header">
-	<h2 class="text">~Selamat Datang~</h2>
+	<h2 class="text">Selamat Datang</h2>
 	<div class="clearfix"></div>
 </div>
 <div class="panel panel-default">
